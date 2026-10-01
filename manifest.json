@@ -1,6 +1,6 @@
 {
-  "version": "6.48",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v6.48/PetSoft_Update.zip",
-  "sha256": "960cbe6d64b64185fd313f0131382c796d7cfa90975fc160e57e52ed43bcfd67",
-  "notes": "PetSoft 6.48 hazır. Güncelleme öncesi veritabanı otomatik yedeklenir."
+  "version": "6.49",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v6.49/PetSoft_Update.zip",
+  "sha256": "8b403172cddb08184fb75561292f592b7f07f9f6d96bc317f5a15bbea63d7505",
+  "notes": "PetSoft 6.49 hazır. Güncelleme öncesi veritabanı otomatik yedeklenir."
 }
