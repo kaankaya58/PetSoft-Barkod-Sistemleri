@@ -1,6 +1,6 @@
 {
-  "version": "6.46",
-  "download_url": "https://raw.githubusercontent.com/kaankaya58/PetSoft-Barkod-Sistemleri/main/updates/PetSoft_Barkod_Sistemleri_v6_47_update.zip",
-  "sha256": "18449bf3883e2f5972ef50aa5240b574ed6732d35329cc219e57e54fd54d4a7f",
-  "notes": "PetSoft resmi otomatik güncelleme kanalı hazırlandı. v6.47 paketi yüklendiğinde kanal etkinleştirilecek."
+  "version": "6.47",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v6.47/PetSoft_Update.zip",
+  "sha256": "21e03fd8c9ebbe8a811589a5b9fc284ef42b1440c88aff62995ca1754b63586a",
+  "notes": "PetSoft 6.47 hazır. Güncelleme öncesi veritabanı otomatik yedeklenir."
 }
