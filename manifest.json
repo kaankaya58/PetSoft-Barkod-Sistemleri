@@ -1,6 +1,6 @@
 {
-  "version": "7.09",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v7.09/PetSoft_Update.zip",
-  "sha256": "16a4df5eb06970cc3e8c25b5a70bbe08861e035398e43db347574c7d9bf1fd14",
-  "notes": "PetSoft 7.09 hazır. POS ve Yönetim birlikte güncellenir; ortak veritabanı korunur."
+  "version": "7.10",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v7.10/PetSoft_Update.zip",
+  "sha256": "a944ea980ad6a03f465040d05e9963e3205717f19f0cf68fb8a1b32a707234ea",
+  "notes": "PetSoft 7.10 hazır. POS ve Yönetim birlikte güncellenir; ortak veritabanı korunur."
 }
