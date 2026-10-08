@@ -1,6 +1,6 @@
 {
-  "version": "7.46",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v7.46/PetSoft_Update.zip",
-  "sha256": "221b7d594bbb55eb99604969032bf572db262493b6a9f23c4b4a686c471cc17d",
-  "notes": "v7.46 Yönetim güncellemesi. POS değişmedi."
+  "version": "8.00",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.00/PetSoft_Update.zip",
+  "sha256": "c3b31e531d55de525e94a71c9e0cc5efefac6035a8fe162adc95a0fba047b3c3",
+  "notes": "PetSoft v8.00 - F5 gercek silme, UBL/PDF, barkod ve premium ekranlar."
 }
