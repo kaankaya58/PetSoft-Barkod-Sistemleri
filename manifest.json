@@ -1,6 +1,1 @@
-{
-  "version": "7.46",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v7.46/PetSoft_Update.zip",
-  "sha256": "221b7d594bbb55eb99604969032bf572db262493b6a9f23c4b4a686c471cc17d",
-  "notes": "Geçici güvenlik geri dönüşü: v8.00 veritabanı geçiş hatası nedeniyle askıya alındı."
-}
+{"version": "8.01", "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.01/PetSoft_Update.zip", "sha256": "de151a4a635578a2134f6837d896d4edf0781a71e3e633cbd53b48f8976a89e2", "notes": "v8.01 acil açılış düzeltmesi: mevcut veritabanı geçişinde ürün tablosu korunur."}
