@@ -1,1 +1,6 @@
-{"version": "8.03", "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.03/PetSoft_Update.zip", "sha256": "c9c90510325910c8e8fb47ec465e49dad5fcb074fc2327df60b6103f39bcdfcf", "notes": "PetSoft v8.03: premium 6x barkod adet girisi, Acik Urun F8, arama iyilestirmesi, Son Fisi Ac, Canli Kasa gider ayrimi."}
+{
+  "version": "8.04",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.04/PetSoft_Update.zip",
+  "sha256": "88cf12c565a67de9086819a8899eae0aa6204257dfb405f5f3db5e258fb9c72c",
+  "notes": "PetSoft v8.04: sabit POS numerik adet paneli, 6x barkod miktarı ve 101 farklı ürün sepet regresyon testi."
+}
