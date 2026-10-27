@@ -1,6 +1,6 @@
 {
-  "version": "8.04",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.04/PetSoft_Update.zip",
-  "sha256": "88cf12c565a67de9086819a8899eae0aa6204257dfb405f5f3db5e258fb9c72c",
-  "notes": "PetSoft v8.04: sabit POS numerik adet paneli, 6x barkod miktarı ve 101 farklı ürün sepet regresyon testi."
+  "version": "8.05",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.05/PetSoft_Update.zip",
+  "sha256": "abea302dc2ac6b7a82f5f3678c53d067167bf4b28dff76ad8a2d35a3bed647c5",
+  "notes": "PetSoft v8.05: kompakt POS numerik paneli ve fiziksel klavye adet girişi; sepet, stok, fiyat ve ödeme akışları korundu."
 }
