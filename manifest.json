@@ -1,6 +1,6 @@
 {
-  "version": "8.06",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.06/PetSoft_Update.zip",
-  "sha256": "551186703e20ea58f2c6b843d79bdc398567bde690a48b2f1973d7afab035779",
-  "notes": "PetSoft v8.06: Kasa / Gün Sonu üst özet kartlarında kompakt yazı ve boşluk düzeni. POS, stok, satış, ödeme ve kasa hesaplama mantığı değiştirilmedi."
+  "version": "8.07",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.07/PetSoft_Update.zip",
+  "sha256": "299d8241e8821036415173fbd424cb49221cd6330ab56a9a6dad17a1935e3e7f",
+  "notes": "PetSoft v8.07: Açık Mama marka logolarını Yukarı/Aşağı ile sıralama ve Ürün & Stok alış fiyatı liste gösterimi iyileştirmesi. Kayıtlı fiyatlar, stok ve satış hesapları değiştirilmedi."
 }
