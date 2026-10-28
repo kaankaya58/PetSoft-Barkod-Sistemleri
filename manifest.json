@@ -1,6 +1,6 @@
 {
-  "version": "8.05",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.05/PetSoft_Update.zip",
-  "sha256": "abea302dc2ac6b7a82f5f3678c53d067167bf4b28dff76ad8a2d35a3bed647c5",
-  "notes": "PetSoft v8.05: kompakt POS numerik paneli ve fiziksel klavye adet girişi; sepet, stok, fiyat ve ödeme akışları korundu."
+  "version": "8.06",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.06/PetSoft_Update.zip",
+  "sha256": "551186703e20ea58f2c6b843d79bdc398567bde690a48b2f1973d7afab035779",
+  "notes": "PetSoft v8.06: Kasa / Gün Sonu üst özet kartlarında kompakt yazı ve boşluk düzeni. POS, stok, satış, ödeme ve kasa hesaplama mantığı değiştirilmedi."
 }
