@@ -1,6 +1,6 @@
 {
-  "version": "8.07",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.07/PetSoft_Update.zip",
-  "sha256": "299d8241e8821036415173fbd424cb49221cd6330ab56a9a6dad17a1935e3e7f",
-  "notes": "PetSoft v8.07: Açık Mama marka logolarını Yukarı/Aşağı ile sıralama ve Ürün & Stok alış fiyatı liste gösterimi iyileştirmesi. Kayıtlı fiyatlar, stok ve satış hesapları değiştirilmedi."
+  "version": "8.08",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.08/PetSoft_Update.zip",
+  "sha256": "80323432856f9af17cd59815a9899738540fcce4256472d224b18f7362ad048b",
+  "notes": "PetSoft v8.08: Yönetim açılışındaki logo sıralama yardımcı fonksiyonu hatası düzeltildi. Mevcut satış ve stok hesaplama mantığı korunur."
 }
