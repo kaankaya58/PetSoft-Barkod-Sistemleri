@@ -1,6 +1,6 @@
 {
-  "version": "8.08",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.08/PetSoft_Update.zip",
-  "sha256": "80323432856f9af17cd59815a9899738540fcce4256472d224b18f7362ad048b",
-  "notes": "PetSoft v8.08: Yönetim açılışındaki logo sıralama yardımcı fonksiyonu hatası düzeltildi. Mevcut satış ve stok hesaplama mantığı korunur."
+  "version": "8.09",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.09/PetSoft_Update.zip",
+  "sha256": "a0fc12bc9fe495509fee275b91d265ca06dc7a39525514ba248d3dbe69bcd130",
+  "notes": "PetSoft v8.09: Otomatik çözünürlük algılama, duyarlı ekran düzeni ve genel arayüz iyileştirmeleri."
 }
