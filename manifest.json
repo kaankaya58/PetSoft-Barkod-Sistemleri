@@ -1,6 +1,6 @@
 {
   "version": "8.09",
   "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.09/PetSoft_Update.zip",
-  "sha256": "a0fc12bc9fe495509fee275b91d265ca06dc7a39525514ba248d3dbe69bcd130",
-  "notes": "PetSoft v8.09: Otomatik çözünürlük algılama, duyarlı ekran düzeni ve genel arayüz iyileştirmeleri."
+  "sha256": "c35e56146d4c769bb88ba6fa4367de46d1d70330d084bd3926a6b638491673da",
+  "notes": "PetSoft v8.09: otomatik çözünürlük ve duyarlı ekran düzeni, güvenli stok içe aktarma ve denetim kayıtlı son satış iptali."
 }
