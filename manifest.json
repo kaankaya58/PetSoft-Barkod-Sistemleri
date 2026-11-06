@@ -1,6 +1,6 @@
 {
-  "version": "8.09",
-  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.09/PetSoft_Update.zip",
-  "sha256": "c35e56146d4c769bb88ba6fa4367de46d1d70330d084bd3926a6b638491673da",
-  "notes": "PetSoft v8.09: otomatik çözünürlük ve duyarlı ekran düzeni, güvenli stok içe aktarma ve denetim kayıtlı son satış iptali."
+  "version": "8.10",
+  "download_url": "https://github.com/kaankaya58/PetSoft-Barkod-Sistemleri/releases/download/v8.10/PetSoft_Update.zip",
+  "sha256": "24f37e8e7ac84def81ba2c807db55b1739f1d92176dcc104f24c1e025bd83deb",
+  "notes": "PetSoft v8.10: Satış Geçmişi içinden herhangi bir fişi geri al; stok, kasa, cari ve sadakat kayıtlarını güvenli biçimde düzelt."
 }
